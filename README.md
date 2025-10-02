@@ -20,3 +20,10 @@ This repository is a collection of templates I use for developing software. I'm 
 
 - `Frontends`: Templates for front-ends
   - frontend-api-vuejs-no-database/
+
+- `gitignore`: Templates for .gitignore files
+  - dotnet.gitignore
+  - frontend.gitignore
+  - javascript.gitignore
+  - master.gitignore
+  - python.gitignore

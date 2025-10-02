@@ -1,0 +1,17 @@
+# JavaScript Project .gitignore
+node_modules/
+dist/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+.eslintcache
+.DS_Store
+.vscode/
+.idea/
+*.local
+.env
+.env.local
